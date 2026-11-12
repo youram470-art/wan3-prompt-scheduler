@@ -1,0 +1,21 @@
+{
+  "name": "wan3/prompt-scheduler",
+  "description": "Turn a beat sheet into a shot plan for a text-to-video batch: timing, prompts, aspect ratio and reproducible seeds.",
+  "type": "library",
+  "license": "MIT",
+  "keywords": ["video", "text-to-video", "prompts", "storyboard", "seeds"],
+  "homepage": "https://wan-3.io/",
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Wan3\\PromptScheduler\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-main": "1.0.x-dev"
+    }
+  }
+}
