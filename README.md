@@ -75,7 +75,9 @@ Text-to-video is cheap to start and expensive to redo:
   readable.
 
 Prompt conventions here follow the request format of
-[Wan 3.0](https://wan-3.io/), which handles text-to-video and image-to-video.
+[Wan 3.0](https://wan-3.io/), which handles text-to-video and image-to-video. The generated
+shot plan is also directly usable in [Pavo AI](https://pavoai.app/), which keeps a reusable cast
+so characters stay consistent between the planned shots.
 
 ## License
 
